@@ -1,18 +1,1 @@
-[
-  {
-    "id": "f113ce8e-5b84-427d-8a88-d98a2030fcf1",
-    "title": "a",
-    "image": "b7a58d7f-cf9a-4862-a1c8-c478ddcf61ee.png",
-    "createdAt": "2023-10-10T22:18:56.733Z",
-    "updatedAt": "2023-10-10T22:18:56.733Z",
-    "deletedAt": null
-  },
-  {
-    "id": "2b4c47ee-104a-4a17-a2f8-632df07d4565",
-    "title": "c",
-    "image": "219664fc-121c-4765-9a94-bf0b3a04f225.png",
-    "createdAt": "2023-10-10T22:19:08.690Z",
-    "updatedAt": "2023-10-10T22:19:08.690Z",
-    "deletedAt": null
-  }
-]
+[{"id":"f113ce8e-5b84-427d-8a88-d98a2030fcf1","title":"a","image":"b7a58d7f-cf9a-4862-a1c8-c478ddcf61ee.png","createdAt":"2023-10-10T22:18:56.733Z","updatedAt":"2023-10-10T22:18:56.733Z","deletedAt":null},{"id":"2b4c47ee-104a-4a17-a2f8-632df07d4565","title":"c","image":"219664fc-121c-4765-9a94-bf0b3a04f225.png","createdAt":"2023-10-10T22:19:08.690Z","updatedAt":"2023-10-10T22:19:08.690Z","deletedAt":null}]
