@@ -1,1 +1,18 @@
-{"id":"ff77819f-633b-4d08-8c69-16f7ab496f06","title":"asdf","image":"4740a7fb-c899-448e-8a8b-4a665c63d273.jpg","description":"fadsf","difficulty":"fasdf","portions":"fasdf","ingredients":"[\"asdf\"]","instructions":"[\"fsadf\"]","createdAt":"2023-10-14T06:40:18.602Z","updatedAt":"2023-10-14T06:40:18.602Z","deletedAt":null,"recipeCategories":[{"id":"5b312d60-be25-4b38-99fa-79d59ef7edd5"}]}
+{
+    "id": "ff77819f-633b-4d08-8c69-16f7ab496f06",
+    "title": "asdf",
+    "image": "4740a7fb-c899-448e-8a8b-4a665c63d273.jpg",
+    "description": "fadsf",
+    "difficulty": "fasdf",
+    "portions": "fasdf",
+    "ingredients": "[\"asdf\"]",
+    "instructions": "[\"fsadf\"]",
+    "createdAt": "2023-10-14T06:40:18.602Z",
+    "updatedAt": "2023-10-14T06:40:18.602Z",
+    "deletedAt": null,
+    "recipeCategories": [
+        {
+            "id": "5b312d60-be25-4b38-99fa-79d59ef7edd5"
+        }
+    ]
+}
