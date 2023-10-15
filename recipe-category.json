@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "id": "f2808dd1-fcd3-4b93-97ec-b27e5cd07935",
+    "name": "Aves",
+    "image": "30513672-08e4-4141-b970-21dc71f5dc30.png",
+    "createdAt": "2023-10-15T22:12:07.571Z",
+    "updatedAt": "2023-10-15T22:12:07.571Z",
+    "deletedAt": null
+  },
+  {
+    "id": "ad82cd65-4098-4c55-8b4b-0bc9800da8c3",
+    "name": "Acompanhamentos",
+    "image": "85155443-b066-4b12-8439-856092ebb412.png",
+    "createdAt": "2023-10-15T22:12:25.871Z",
+    "updatedAt": "2023-10-15T22:12:25.871Z",
+    "deletedAt": null
+  },
+  {
+    "id": "bce1c221-aa4f-4d8f-a250-0d3e9fc9e06d",
+    "name": "Bebidas",
+    "image": "a82a6590-db02-4e74-b05d-d5f0d79d08f1.png",
+    "createdAt": "2023-10-15T22:12:55.846Z",
+    "updatedAt": "2023-10-15T22:12:55.846Z",
+    "deletedAt": null
+  },
+  {
+    "id": "437fddb6-badd-4eeb-a8ff-fb848c4eef33",
+    "name": "Bolos",
+    "image": "68862b9a-74b5-4e61-8d68-e776e0fa678e.png",
+    "createdAt": "2023-10-15T22:13:06.726Z",
+    "updatedAt": "2023-10-15T22:13:06.726Z",
+    "deletedAt": null
+  },
+  {
+    "id": "0ad30d38-e015-44a5-80ad-4ac8424764ec",
+    "name": "Carnes",
+    "image": "a54a0163-3679-46fe-8f35-9d60df24109f.png",
+    "createdAt": "2023-10-15T22:13:26.986Z",
+    "updatedAt": "2023-10-15T22:13:26.986Z",
+    "deletedAt": null
+  },
+  {
+    "id": "6929be10-e8bf-4db7-80d5-25f1d75fb119",
+    "name": "Chás",
+    "image": "cca136aa-10bf-4269-85fe-5b28c25ef68f.png",
+    "createdAt": "2023-10-15T22:13:42.025Z",
+    "updatedAt": "2023-10-15T22:13:42.025Z",
+    "deletedAt": null
+  },
+  {
+    "id": "74e5e869-527f-4396-af25-5b8ba139603e",
+    "name": "Doces",
+    "image": "1f8bd506-528e-4b76-bdc2-cc0c45cc0ce9.png",
+    "createdAt": "2023-10-15T22:14:13.538Z",
+    "updatedAt": "2023-10-15T22:14:13.538Z",
+    "deletedAt": null
+  },
+  {
+    "id": "3f064b8a-e458-4446-98cd-e6c833897003",
+    "name": "Entradas",
+    "image": "60780339-7105-488b-b590-609995270ebf.png",
+    "createdAt": "2023-10-15T22:14:25.160Z",
+    "updatedAt": "2023-10-15T22:14:25.160Z",
+    "deletedAt": null
+  },
+  {
+    "id": "76efd0bf-1cdf-44ee-a22b-b7e311870600",
+    "name": "Festa Junina",
+    "image": "7b687949-7da8-427c-a4fe-5af772f81dd5.png",
+    "createdAt": "2023-10-15T22:14:47.247Z",
+    "updatedAt": "2023-10-15T22:14:47.247Z",
+    "deletedAt": null
+  },
+  {
+    "id": "560aa822-4aa3-4f7f-aa52-4f73910c8a92",
+    "name": "Lanches",
+    "image": "257238f8-1d5d-4c9d-9ffc-9c558344a78f.png",
+    "createdAt": "2023-10-15T22:15:55.240Z",
+    "updatedAt": "2023-10-15T22:15:55.240Z",
+    "deletedAt": null
+  },
+  {
+    "id": "4bbf50fc-6d4c-40e0-ba87-81da82cdeb0f",
+    "name": "Lasanhas",
+    "image": "92153b40-ab6c-4c6c-b05a-29e1ba747049.png",
+    "createdAt": "2023-10-15T22:16:08.264Z",
+    "updatedAt": "2023-10-15T22:16:08.264Z",
+    "deletedAt": null
+  },
+  {
+    "id": "5c718d18-e42d-4308-a4ea-34773b0d12db",
+    "name": "Leites Vegetais",
+    "image": "d79266a7-d36d-47d2-96b3-a83fca365624.png",
+    "createdAt": "2023-10-15T22:16:23.114Z",
+    "updatedAt": "2023-10-15T22:16:23.114Z",
+    "deletedAt": null
+  },
+  {
+    "id": "345d650c-5ddd-401e-a1fe-2b7ec0436cc0",
+    "name": "Sobremesas",
+    "image": "ad6bbce3-b55a-4137-bf83-7773aea54cf8.png",
+    "createdAt": "2023-10-15T22:16:46.714Z",
+    "updatedAt": "2023-10-15T22:16:46.714Z",
+    "deletedAt": null
+  }
+]
