@@ -118,5 +118,13 @@
     "createdAt": "2023-10-30T06:09:22.182Z",
     "updatedAt": "2023-10-30T06:09:22.182Z",
     "deletedAt": null
+  },
+  {
+    "id": "13b4aa6f-bb63-4dd5-b61e-5728b5d6fd1d",
+    "name": "Salada",
+    "image": "30d6ba97-82d2-4f0d-8b50-60df1c836317.jpg",
+    "createdAt": "2023-10-30T06:17:56.306Z",
+    "updatedAt": "2023-10-30T06:17:56.306Z",
+    "deletedAt": null
   }
 ]
