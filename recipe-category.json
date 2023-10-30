@@ -126,5 +126,13 @@
     "createdAt": "2023-10-30T06:17:56.306Z",
     "updatedAt": "2023-10-30T06:17:56.306Z",
     "deletedAt": null
+  },
+  {
+    "id": "afc52ca6-70ab-4bf5-9b8c-b6763ba546b5",
+    "name": "Peixes",
+    "image": "47780aef-6448-4676-a916-d93d2f337f50.jpg",
+    "createdAt": "2023-10-30T17:33:47.059Z",
+    "updatedAt": "2023-10-30T17:33:47.059Z",
+    "deletedAt": null
   }
 ]
