@@ -1,0 +1,18 @@
+{
+  "id": "bac75ae5-7600-4491-9ad7-c27867684853",
+  "title": "Salada de Espinafre e Manga",
+  "image": "d9959119-286a-4ccb-955a-865b3af3a198.jpg",
+  "description": "A salada de espinafre e manga combina folhas frescas de espinafre com pedaços suculentos de manga, criando um equilíbrio perfeito entre o sabor levemente amargo do espinafre e a doçura da manga. Ela é muitas vezes complementada com nozes ou amêndoas para dar crocância e pode ser regada com um molho leve, tornando-a uma opção refrescante e saudável para qualquer refeição.",
+  "difficulty": "Fácil",
+  "portions": "2",
+  "ingredients": "[\"1/2 maço de espinafre\",\"1/2 manga descascada e cortada em cubos\",\"1/2 cebola descascada\",\"1 pitada de noz-moscada\",\"1/2 colher de sopa de vinagre de maçã\",\"1/4 de colher de sopa de azeite\",\"1 colher de chá de sal\",\"Água para cozinhar\",\"cranberry desidratado a gosto.\"]",
+  "instructions": "[\"Em uma panela, cozinhe o espinafre em água até que esteja macio.\",\"Escorra e reserve.\",\"Em uma tigela, misture a manga, a cebola, a noz-moscada, o vinagre de maçã, o azeite e o sal.\",\"Adicione o espinafre e misture bem.\",\"Sirva com cranberry desidratado a gosto.\"]",
+  "createdAt": "2023-10-30T06:22:15.493Z",
+  "updatedAt": "2023-10-30T06:22:15.493Z",
+  "deletedAt": null,
+  "recipeCategories": [
+    {
+      "id": "13b4aa6f-bb63-4dd5-b61e-5728b5d6fd1d"
+    }
+  ]
+}

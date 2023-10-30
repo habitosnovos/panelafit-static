@@ -134,5 +134,21 @@
     "createdAt": "2023-10-30T17:33:47.059Z",
     "updatedAt": "2023-10-30T17:33:47.059Z",
     "deletedAt": null
+  },
+  {
+    "id": "665fd940-364c-4c64-9d5d-b75ba9551f15",
+    "name": "Caldos",
+    "image": "0db590c4-574a-4095-8ded-f71b87b6b688.jpg",
+    "createdAt": "2023-10-31T01:59:47.866Z",
+    "updatedAt": "2023-10-31T01:59:47.866Z",
+    "deletedAt": null
+  },
+  {
+    "id": "1b052b1e-9e0e-435d-a95d-9dbe89f425a9",
+    "name": "Legumes ",
+    "image": "c4e9fcbf-6929-4174-be74-6b8f1e235fd6.jpg",
+    "createdAt": "2023-10-31T02:10:25.878Z",
+    "updatedAt": "2023-10-31T02:10:25.878Z",
+    "deletedAt": null
   }
 ]
