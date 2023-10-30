@@ -110,5 +110,13 @@
     "createdAt": "2023-10-30T05:44:56.453Z",
     "updatedAt": "2023-10-30T05:44:56.453Z",
     "deletedAt": null
+  },
+  {
+    "id": "3fa46a22-5562-4a5e-91c1-eb9b47c59dac",
+    "name": "Pizza",
+    "image": "53cb62b0-39d5-4278-a227-3267257951a0.jpg",
+    "createdAt": "2023-10-30T06:09:22.182Z",
+    "updatedAt": "2023-10-30T06:09:22.182Z",
+    "deletedAt": null
   }
 ]
