@@ -1,0 +1,18 @@
+{
+  "id": "4b6ca6ab-08e1-43bd-8ab0-ae7876c62f64",
+  "title": "Berinjela Recheada",
+  "image": "9c7d3bf6-88ea-4cea-ab04-3a849bead7d2.jpg",
+  "description": "Essa receita resulta em um prato saboroso e saudável, frequentemente servido como prato principal.",
+  "difficulty": "Fácil",
+  "portions": "2",
+  "ingredients": "[\"1 berinjela grande\",\"150gr de carne moída sem gordura\",\"1 tomate picado\",\"Salsinha, sal e pimenta a gosto\",\"1 colher de sopa de molho de tomate\",\"1 colher de sobremesa de requeijão light (opcional) \",\"2 colheres de sopa de azeite\"]",
+  "instructions": "[\"Corte a berinjela ao meio, retire o miolo e pique-o. \",\"Refogue a carne moída com a cebola, com o azeite e acrescente o miolo da berinjela picado, o tomate, o molho e os temperos. Deixe cozinhar rapidamente.\",\"Recheie as berinjelas e cubra com requeijão light ou salpique com queijo ralado fresco ou queijo cottage. \",\"Coloque-as em uma forma com um pouco de água e asse no forno por cerca de 20 minutos.\"]",
+  "createdAt": "2023-10-31T02:21:36.214Z",
+  "updatedAt": "2023-10-31T02:21:36.214Z",
+  "deletedAt": null,
+  "recipeCategories": [
+    {
+      "id": "1b052b1e-9e0e-435d-a95d-9dbe89f425a9"
+    }
+  ]
+}
