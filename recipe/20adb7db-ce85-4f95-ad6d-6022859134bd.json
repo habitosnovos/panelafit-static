@@ -1,0 +1,18 @@
+{
+  "id": "20adb7db-ce85-4f95-ad6d-6022859134bd",
+  "title": "Macarrão Fit",
+  "image": "29adce55-0118-4c01-9fc1-0d8c23ba1e6b.jpg",
+  "description": "O macarrão integral fit é uma opção deliciosa e saudável para quem procura uma refeição rápida e nutritiva. Feito com macarrão integral, esta receita é carregada de fibras, o que mantém você saciado por mais tempo. O sabor é incrível, e o preparo é rápido, tornando o macarrão integral fit uma escolha perfeita para aqueles dias movimentados em que você deseja cuidar da sua saúde sem abrir mão do sabor. É uma opção deliciosa que satisfaz o paladar e nutre o corpo.",
+  "difficulty": "Fácil",
+  "portions": "4 ",
+  "ingredients": "[\"500g de macarrão integral\",\"350g de patinho moído\",\"200g de creme de leite light\",\"1 lata de molho de tomate\",\"1l e 400 ml de água filtrada \",\"1 cebola pequena cortada em cubos\",\"1 dente de alho amassado\",\"Temperos a gosto\",\"Sal a gosto\",\"2 colheres de azeite\"]",
+  "instructions": "[\"Em uma panela de pressão refogue o alho e a cebola com um pouco de azeite junto com o tempero caseiro natural de sua preferência.\",\"Refogue um pouco a carne moída.\",\"Acrescente a água, o creme de leite e o molho de tomate misturando bem.\",\"Acrescente o macarrão e feche a panela de pressão. Assim que a panela pegar pressão marque cinco minutos.\",\"Desligue o fogo e retire imediatamente a pressão para não cozinhar demais o macarrão.\",\"E está pronto para servir.\",\"Você pode utilizar como temperos: páprica defumada, alecrim, manjericão, orégano, coentro, salsa, alho-poró, noz-moscada ralada. Para ficar ainda mais saudável polvilhe linhaça torrada por cima do macarrão na hora de servir se você desejar.\"]",
+  "createdAt": "2023-10-30T06:01:58.797Z",
+  "updatedAt": "2023-10-30T06:01:58.797Z",
+  "deletedAt": null,
+  "recipeCategories": [
+    {
+      "id": "8610760e-d7f9-441a-9c19-5df9dfda4384"
+    }
+  ]
+}

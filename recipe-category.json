@@ -150,5 +150,13 @@
     "createdAt": "2023-10-31T02:10:25.878Z",
     "updatedAt": "2023-10-31T02:10:25.878Z",
     "deletedAt": null
+  },
+  {
+    "id": "527c23e3-008c-454e-bd80-b96d13fe375c",
+    "name": "Tortas ",
+    "image": "e7b26e4d-4337-4d70-83f5-d21b506c1b0f.jpg",
+    "createdAt": "2023-11-04T21:59:37.814Z",
+    "updatedAt": "2023-11-04T21:59:37.814Z",
+    "deletedAt": null
   }
 ]
