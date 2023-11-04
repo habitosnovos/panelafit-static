@@ -1,0 +1,18 @@
+{
+  "id": "06aa6682-f50c-45bb-8f1f-b266e6cfc725",
+  "title": "teste",
+  "image": "834e2f84-90f9-4769-b847-07fe8ce2efc2.jpg",
+  "description": "321",
+  "difficulty": "321",
+  "portions": "321",
+  "ingredients": "[\"321\"]",
+  "instructions": "[\"123\"]",
+  "createdAt": "2023-11-05T00:39:59.297Z",
+  "updatedAt": "2023-11-05T00:39:59.297Z",
+  "deletedAt": null,
+  "recipeCategories": [
+    {
+      "id": "f2808dd1-fcd3-4b93-97ec-b27e5cd07935"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ef2b7a27-1b51-4e87-b8e3-7f473ac0d0bf",
+  "title": "Salada de Rúcula, Abacate e Tomate",
+  "image": "a36a1c77-513c-4abe-b40c-82ea6efebc49.jpg",
+  "description": "A salada de rúcula, abacate e tomate é uma combinação refrescante e saudável. A rúcula oferece um sabor levemente picante, o abacate adiciona cremosidade e gorduras saudáveis, e o tomate traz frescor. Esses ingredientes se complementam perfeitamente, criando uma salada equilibrada e deliciosa, muitas vezes regada com azeite de oliva e limão para realçar o sabor. É uma opção rápida e nutritiva para uma refeição leve.",
+  "difficulty": "Fácil",
+  "portions": "2",
+  "ingredients": "[\"1 maço de rúcula\",\"1 abacate cortado em cubos\",\"1 tomate picado\",\"Molho:\",\"1 colher de sopa de azeite\",\"1 colher de sopa de vinagre de maçã\",\"Sal e pimenta a gosto\"]",
+  "instructions": "[\"Em uma tigela, misture a rúcula, o abacate e o tomate.\",\"Em outra tigela, misture os ingredientes do molho.\",\"Sirva a salada com o molho por cima.\"]",
+  "createdAt": "2023-10-30T06:35:09.212Z",
+  "updatedAt": "2023-10-30T06:35:09.212Z",
+  "deletedAt": null,
+  "recipeCategories": [
+    {
+      "id": "13b4aa6f-bb63-4dd5-b61e-5728b5d6fd1d"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "b7e8579e-9600-4b3b-a644-f205f0771aa8",
+  "title": "Sanduíche 3 minutos",
+  "image": "649658eb-8b5f-4ba7-8a59-ca59353de9a9.JPG",
+  "description": "Este sanduíche fit é uma opção saudável e rápida para uma refeição satisfatória. Monte o sanduíche, e em apenas 3 minutos, você terá uma refeição deliciosa, equilibrada e repleta de nutrientes. Aproveite!",
+  "difficulty": "Fácil",
+  "portions": "1",
+  "ingredients": "[\"2 ovos inteiros\",\"2 colheres de sopa de requeijão light ou creme de ricota.\",\"2 fatias de queijo muçarela\",\"1 colher de chá de fermento em pó\",\"Sal a gosto\",\"1 colher de sopa de queijo parmesão a gosto\",\"1 colher de chá de azeite ou manteiga\",\"Orégano a gosto (ou outro tempero de sua preferência)\"]",
+  "instructions": "[\"Comece por bater 2 ovos inteiros em uma tigela.\",\"Adicione 2 colheres de sopa de requeijão ou creme de ricota, 1 colher de sopa de queijo parmesão, 1 colher de chá de fermento em pó e uma pitada de sal.\",\"Misture bem com um garfo até que fique homogêneo.\",\"Em seguida, unte uma forma com azeite ou manteiga e despeje a mistura.\",\"Leve a forma ao micro-ondas em potência alta por 3 minutos. A mistura irá crescer, mas não transbordará.\",\"Retire a forma do micro-ondas e vire o pão em uma tábua ou prato com a ajuda de uma espátula.\",\"Corte-o ao meio, recheie com queijo muçarela ou outro de sua preferência, orégano e leve-o à sanduicheira até que o queijo derreta.\"]",
+  "createdAt": "2023-10-30T05:39:15.415Z",
+  "updatedAt": "2023-10-30T05:39:15.415Z",
+  "deletedAt": null,
+  "recipeCategories": [
+    {
+      "id": "560aa822-4aa3-4f7f-aa52-4f73910c8a92"
+    }
+  ]
+}
