@@ -1,0 +1,18 @@
+{
+  "id": "25f130ad-16b0-4ff7-901a-36f190595b5f",
+  "title": "Grão-de-bico com Legumes",
+  "image": "bc0bfb50-48bd-49b5-900c-4ab9b932d4ee.jpg",
+  "description": "A receita de grão-de-bico com legumes é um prato saudável e versátil que combina grão-de-bico cozido com uma variedade de legumes, como cenouras, abobrinha e tomates. Essa mistura é geralmente cozida com temperos e ervas, criando uma refeição rica em proteínas, fibras e sabor. Pode ser servida como acompanhamento ou como prato principal, servido quente ou frio. \r\n",
+  "difficulty": "Intermediário",
+  "portions": "6",
+  "ingredients": "[\"1 xícara e  1/2 de chá de grão-de-bico \",\"400 ml de água\",\"1/2 cebola picada\",\"2 dentes de alho picados\",\"1/2 xícara de chá de alho-poró picado\",\"1 tomate picado\",\"2 xícaras de chá de legumes cortados (brócolis, abobrinha, vagem, (você pode acrescentar os legumes da sua preferência. Outras opções como:ervilha, milho, cenoura, etc)\",\"1 colher de chá de sal\",\"1 colher de sopa de azeite\"]",
+  "instructions": "[\"Deixe o grão-de-bico de molho de um dia para o outro. Descarte a água e coloque o grão-de-bico para cozinhar na panela de pressão, junte com os 400 ml de água.\",\"Quando a panela começar a apitar, marque 20 a 25 minutos e desligue o fogo. Aguarde a pressão da panela sair completamente. (O tempo de cozimento é de aproximadamente 1h e 30 minutos).\",\"Descarte a água e reserve o grão-de-bico. \",\"Aqueça um fio de azeite numa panela e refogue cebola, alho e alho-poró. \",\"Em seguida, acrescente os legumes picados e o tomate. \",\"Cozinhe até que os legumes estejam ao seu gosto.\",\"Coloque o grão-de-bico, adicione sal a gosto e misture bem.\",\"Sirva ainda quente ou como salada.\",\"Dica: Ao final da receita, acrescente um fio de azeite e suco de 1/2 limão. Você também pode colocar na hora de acrescentar os legumes papríca defumada, orégano, pimenta calabresa, noz-moscada, manjericão ou temperos a sua escolha.)\"]",
+  "createdAt": "2023-10-30T17:32:57.484Z",
+  "updatedAt": "2023-10-30T17:32:57.484Z",
+  "deletedAt": null,
+  "recipeCategories": [
+    {
+      "id": "ad82cd65-4098-4c55-8b4b-0bc9800da8c3"
+    }
+  ]
+}
